@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xSPk56+Mq64/h4kkr/fpbp6QViWPMtzDIckWY00EkMSV9xil/mSnpWDCLiKH4/h2HUWK+JBFfkpv0YwfBnxE5Q==",
+  "success": true,
+  "projectFilePath": "/Users/simonp/Projects/Healthcare_Appointment_System/Healthcare_Appointment_System.csproj",
+  "expectedPackageFiles": [
+    "/Users/simonp/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/simonp/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/simonp/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/simonp/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/simonp/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/simonp/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
