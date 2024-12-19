@@ -13,4 +13,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="src\Appointment\Controller\" />
+    <Folder Include="src\Appointment\Service\" />
+  </ItemGroup>
+
 </Project>

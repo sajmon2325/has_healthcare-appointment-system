@@ -7493,11 +7493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/simonp/Projects/Healthcare_Appointment_System/Healthcare_Appointment_System.csproj",
+      "projectUniqueName": "/Users/simonp/Projects/Healthcare Appointment System/Healthcare_Appointment_System/Healthcare_Appointment_System.csproj",
       "projectName": "Healthcare_Appointment_System",
-      "projectPath": "/Users/simonp/Projects/Healthcare_Appointment_System/Healthcare_Appointment_System.csproj",
+      "projectPath": "/Users/simonp/Projects/Healthcare Appointment System/Healthcare_Appointment_System/Healthcare_Appointment_System.csproj",
       "packagesPath": "/Users/simonp/.nuget/packages/",
-      "outputPath": "/Users/simonp/Projects/Healthcare_Appointment_System/obj/",
+      "outputPath": "/Users/simonp/Projects/Healthcare Appointment System/Healthcare_Appointment_System/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/simonp/.nuget/NuGet/NuGet.Config"
