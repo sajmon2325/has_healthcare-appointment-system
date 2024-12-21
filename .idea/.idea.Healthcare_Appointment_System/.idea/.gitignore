@@ -16,3 +16,5 @@ project.nuget.cache
 project.assets.json
 csproj.nuget.dgspec.json
 csproj.nuget.g.props
+certificate/certi.pfx
+/obj/
