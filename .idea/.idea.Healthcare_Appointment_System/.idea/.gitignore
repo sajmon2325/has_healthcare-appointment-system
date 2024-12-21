@@ -11,10 +11,6 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-project.nuget.cache
 .env
-project.assets.json
-csproj.nuget.dgspec.json
-csproj.nuget.g.props
-certificate/certi.pfx
+certificates/
 /obj/
