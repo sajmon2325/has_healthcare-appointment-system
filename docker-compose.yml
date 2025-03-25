@@ -15,7 +15,7 @@ services:
       - ASPNETCORE_Kestrel__Certificates__Default__Password=${CERT_PASSWORD}
   healthcare.database:
     image: postgres:15.1-alpine
-    container_name: healthcare.database
+    container_name: healthcare_db
     ports:
       - "5432:5432"    
     environment:
